@@ -71,7 +71,7 @@ dependencies {
     implementation("androidx.compose.material3:material3")
 
     // Integración de Compose con la Actividad
-    implementation("androidx.activity:activity-compose:1.9.0")
+    implementation("androidx.activity:activity-compose:1.8.2")
 
     // Para que las vistas previas funcionen en Android Studio
     debugImplementation("androidx.compose.ui:ui-tooling")
